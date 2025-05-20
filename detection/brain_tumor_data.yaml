@@ -1,0 +1,6 @@
+path: ../brain_tumor_dataset
+train: train/yes
+val: val/yes
+
+nc: 1
+names: ['tumor'] 
